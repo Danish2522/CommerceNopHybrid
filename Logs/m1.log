@@ -1,0 +1,587 @@
+  03/08/2023 11: 15: 15 PM: INFO: ====== WebDriver manager ======
+  03/08/2023 11: 15: 15 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/08/2023 11: 15: 16 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/08/2023 11: 15: 17 PM: INFO: *************test001 home page ttile*********************
+  03/08/2023 11: 15: 19 PM: INFO: *************verifying*********************
+  03/08/2023 11: 15: 19 PM: INFO: *************Passed*********************
+  03/08/2023 11: 15: 19 PM: INFO: ====== WebDriver manager ======
+  03/08/2023 11: 15: 19 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/08/2023 11: 15: 20 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 07: 45: 38 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 07: 45: 39 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 07: 45: 40 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/09/2023 07: 45: 42 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\110.0.5481]
+  03/09/2023 07: 45: 44 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 07: 45: 46 PM: INFO: *************verifying*********************
+  03/09/2023 07: 45: 46 PM: INFO: *************Passed*********************
+  03/09/2023 07: 45: 46 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 07: 45: 47 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 07: 45: 48 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 07: 46: 22 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 07: 46: 24 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 07: 46: 27 PM: INFO: There is no [win64] edgedriver for browser 110.0.1587 in cache
+  03/09/2023 07: 46: 27 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.63/edgedriver_win64.zip
+  03/09/2023 07: 46: 34 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587]
+  03/09/2023 07: 46: 35 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 07: 46: 37 PM: INFO: *************verifying*********************
+  03/09/2023 07: 46: 37 PM: INFO: *************Passed*********************
+  03/09/2023 07: 46: 37 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 07: 46: 40 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 07: 46: 42 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/09/2023 08: 00: 27 PM: INFO: xdist worker is: gw1
+  03/09/2023 08: 00: 27 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 00: 27 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 00: 27 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 00: 30 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 08: 00: 30 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 08: 00: 33 PM: INFO: There is no [win64] edgedriver for browser 110.0.1587 in cache
+  03/09/2023 08: 00: 33 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.63/edgedriver_win64.zip
+  03/09/2023 08: 00: 33 PM: INFO: There is no [win64] edgedriver for browser 110.0.1587 in cache
+  03/09/2023 08: 00: 33 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.63/edgedriver_win64.zip
+  03/09/2023 08: 00: 39 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw0\drivers\edgedriver\win64\110.0.1587]
+  03/09/2023 08: 00: 39 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw1\drivers\edgedriver\win64\110.0.1587]
+  03/09/2023 08: 00: 40 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 00: 41 PM: INFO: *************verifying*********************
+  03/09/2023 08: 00: 41 PM: INFO: *************Passed*********************
+  03/09/2023 08: 01: 14 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 01: 14 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 01: 14 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 01: 16 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 08: 01: 16 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 08: 01: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/09/2023 08: 01: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw1\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/09/2023 08: 01: 20 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 01: 21 PM: INFO: *************verifying*********************
+  03/09/2023 08: 01: 21 PM: INFO: *************Passed*********************
+  03/09/2023 08: 02: 00 PM: INFO: xdist worker is: gw1
+  03/09/2023 08: 02: 00 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 02: 00 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 02: 00 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 02: 03 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 08: 02: 03 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/09/2023 08: 02: 06 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/09/2023 08: 02: 06 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw1\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/09/2023 08: 02: 07 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 02: 08 PM: INFO: *************verifying*********************
+  03/09/2023 08: 02: 08 PM: INFO: *************Passed*********************
+  03/09/2023 08: 04: 05 PM: INFO: xdist worker is: gw1
+  03/09/2023 08: 04: 05 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 04: 05 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 04: 05 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 04: 06 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 04: 06 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 04: 07 PM: INFO: There is no [win32] chromedriver for browser 110.0.5481 in cache
+  03/09/2023 08: 04: 07 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/09/2023 08: 04: 07 PM: INFO: There is no [win32] chromedriver for browser 110.0.5481 in cache
+  03/09/2023 08: 04: 07 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/09/2023 08: 04: 10 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481]
+  03/09/2023 08: 04: 11 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw1\drivers\chromedriver\win32\110.0.5481]
+  03/09/2023 08: 04: 11 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 04: 13 PM: INFO: *************verifying*********************
+  03/09/2023 08: 04: 13 PM: INFO: *************Passed*********************
+  03/09/2023 08: 04: 36 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 04: 36 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 04: 36 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 04: 37 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 04: 37 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 04: 38 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw1\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 04: 38 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 04: 39 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 04: 40 PM: INFO: *************verifying*********************
+  03/09/2023 08: 04: 40 PM: INFO: *************Passed*********************
+  03/09/2023 08: 05: 20 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 05: 20 PM: INFO: xdist worker is: gw1
+  03/09/2023 08: 05: 20 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 05: 20 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 05: 21 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 05: 21 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 05: 22 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw1\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 05: 22 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 05: 23 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 05: 24 PM: INFO: *************verifying*********************
+  03/09/2023 08: 05: 24 PM: INFO: *************Passed*********************
+  03/09/2023 08: 05: 42 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 05: 42 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 05: 42 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 05: 43 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 05: 43 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 05: 44 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw1\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 05: 44 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 05: 45 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 05: 46 PM: INFO: *************verifying*********************
+  03/09/2023 08: 05: 46 PM: INFO: *************Passed*********************
+  03/09/2023 08: 17: 12 PM: INFO: xdist worker is: gw0
+  03/09/2023 08: 17: 12 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 17: 12 PM: INFO: ====== WebDriver manager ======
+  03/09/2023 08: 17: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 17: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/09/2023 08: 17: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 17: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw1\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/09/2023 08: 17: 16 PM: INFO: *************test001 home page ttile*********************
+  03/09/2023 08: 17: 17 PM: INFO: *************verifying*********************
+  03/09/2023 08: 17: 17 PM: INFO: *************Passed*********************
+  03/12/2023 02: 57: 04 PM: INFO: xdist worker is: gw1
+  03/12/2023 02: 57: 04 PM: INFO: ====== WebDriver manager ======
+  03/12/2023 02: 57: 04 PM: INFO: ====== WebDriver manager ======
+  03/12/2023 02: 57: 05 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/12/2023 02: 57: 06 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/12/2023 02: 57: 06 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/12/2023 02: 57: 11 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481]
+  03/12/2023 02: 57: 12 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw1\drivers\chromedriver\win32\110.0.5481]
+  03/12/2023 02: 57: 14 PM: INFO: *************test001 home page ttile*********************
+  03/12/2023 02: 57: 15 PM: INFO: *************verifying*********************
+  03/12/2023 02: 57: 15 PM: INFO: *************Passed*********************
+  03/12/2023 03: 00: 55 PM: INFO: xdist worker is: gw0
+  03/12/2023 03: 00: 55 PM: INFO: ====== WebDriver manager ======
+  03/12/2023 03: 00: 56 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/12/2023 03: 00: 57 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/12/2023 03: 00: 59 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  03/12/2023 03: 00: 59 PM: INFO: ******* Starting Login DDT Test **********
+  03/12/2023 03: 01: 19 PM: INFO: **** passed ****
+  03/12/2023 03: 10: 48 PM: INFO: xdist worker is: gw0
+  03/12/2023 03: 10: 48 PM: INFO: ====== WebDriver manager ======
+  03/12/2023 03: 10: 48 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/12/2023 03: 10: 50 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/12/2023 03: 10: 51 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  03/12/2023 03: 10: 51 PM: INFO: ******* Starting Login DDT Test **********
+  03/12/2023 03: 11: 07 PM: INFO: **** passed ****
+  03/12/2023 03: 11: 15 PM: INFO: **** passed ****
+  03/12/2023 03: 11: 21 PM: INFO: **** passed ****
+  03/12/2023 03: 11: 27 PM: INFO: **** passed ****
+  03/12/2023 03: 11: 27 PM: INFO: ******* DDT Login test passed **********
+  03/12/2023 03: 11: 27 PM: INFO: ******* End of Login DDT Test **********
+  03/12/2023 03: 11: 27 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+  03/14/2023 08: 46: 37 PM: INFO: xdist worker is: gw0
+  03/14/2023 08: 46: 37 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 08: 46: 38 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 08: 46: 48 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/14/2023 08: 47: 33 PM: INFO: xdist worker is: gw0
+  03/14/2023 08: 47: 33 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 08: 47: 34 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 08: 47: 36 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+  03/14/2023 08: 47: 38 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481]
+  03/14/2023 08: 47: 39 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 08: 47: 45 PM: INFO: ************* Login succesful **********
+  03/14/2023 08: 47: 45 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 24: 30 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 24: 30 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 24: 31 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 24: 33 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 24: 34 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 25: 08 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 25: 08 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 25: 09 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 25: 12 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 25: 13 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 25: 25 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 25: 25 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 31: 34 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 31: 34 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 31: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 31: 38 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 31: 39 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 31: 51 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 31: 51 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 38: 38 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 38: 38 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 38: 39 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 38: 41 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 38: 42 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 38: 50 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 38: 50 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 40: 17 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 40: 17 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 40: 18 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 40: 20 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 40: 21 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 40: 32 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 40: 32 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 42: 33 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 42: 33 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 42: 34 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 42: 35 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 42: 36 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 42: 47 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 42: 47 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 43: 42 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 43: 42 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 43: 43 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 43: 44 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 43: 46 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 43: 52 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 43: 52 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 44: 01 PM: INFO: ************* Providing customer info **********
+  03/14/2023 10: 51: 14 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 51: 14 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 51: 15 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 51: 16 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 51: 18 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 51: 27 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 51: 27 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 51: 34 PM: INFO: ************* Providing customer info **********
+  03/14/2023 10: 56: 07 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 56: 07 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 56: 08 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 56: 09 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 56: 10 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 56: 18 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 56: 18 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 56: 22 PM: INFO: ************* Providing customer info **********
+  03/14/2023 10: 57: 24 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 57: 24 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 57: 27 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/14/2023 10: 57: 27 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/14/2023 10: 57: 30 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.69/edgedriver_win64.zip
+  03/14/2023 10: 57: 30 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.69/edgedriver_win64.zip
+  03/14/2023 10: 58: 03 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587]
+  03/14/2023 10: 58: 03 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587]
+  03/14/2023 10: 58: 05 PM: INFO: *************test001 home page ttile*********************
+  03/14/2023 10: 58: 05 PM: INFO: *************test001 home page ttile*********************
+  03/14/2023 10: 58: 07 PM: INFO: *************verifying*********************
+  03/14/2023 10: 58: 07 PM: INFO: *************verifying*********************
+  03/14/2023 10: 58: 07 PM: INFO: *************Passed*********************
+  03/14/2023 10: 58: 07 PM: INFO: *************Passed*********************
+  03/14/2023 10: 58: 07 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 58: 07 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 58: 10 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/14/2023 10: 58: 10 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/14/2023 10: 58: 13 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/14/2023 10: 58: 13 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/14/2023 10: 58: 22 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 58: 22 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 58: 25 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/14/2023 10: 58: 25 PM: INFO: Get LATEST edgedriver version for 110.0.1587 Edge
+  03/14/2023 10: 58: 28 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/14/2023 10: 58: 28 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+  03/14/2023 10: 58: 31 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  03/14/2023 10: 58: 31 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  03/14/2023 10: 58: 31 PM: INFO: ******* Starting Login DDT Test **********
+  03/14/2023 10: 58: 31 PM: INFO: ******* Starting Login DDT Test **********
+  03/14/2023 10: 58: 56 PM: INFO: xdist worker is: gw0
+  03/14/2023 10: 58: 56 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 10: 58: 57 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 10: 58: 58 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 10: 58: 59 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 10: 59: 05 PM: INFO: ************* Login succesful **********
+  03/14/2023 10: 59: 05 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 10: 59: 10 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 02: 04 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 02: 04 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 02: 05 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 02: 06 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 02: 08 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 02: 16 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 02: 16 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 02: 20 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 12: 52 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 12: 52 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 12: 53 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 12: 54 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 12: 55 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 13: 03 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 13: 03 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 13: 07 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 15: 00 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 15: 00 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 15: 01 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 15: 02 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 15: 03 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 15: 08 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 15: 08 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 15: 11 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 17: 03 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 17: 03 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 17: 04 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 17: 04 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 17: 06 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 17: 11 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 17: 11 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 17: 14 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 19: 21 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 19: 21 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 19: 22 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 19: 23 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 19: 24 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 19: 31 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 19: 31 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 19: 36 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 20: 59 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 20: 59 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 20: 59 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 21: 00 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 21: 02 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 21: 06 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 21: 06 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 21: 09 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 22: 30 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 22: 30 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 22: 31 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 22: 32 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 22: 33 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 22: 38 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 22: 38 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 22: 41 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 22: 54 PM: INFO: ************* Saving customer info **********
+  03/14/2023 11: 22: 54 PM: INFO: ********* Add customer validation started *****************
+  03/14/2023 11: 29: 46 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 29: 46 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 29: 47 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 29: 48 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 29: 49 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 29: 54 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 29: 54 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 29: 57 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 30: 10 PM: INFO: ************* Saving customer info **********
+  03/14/2023 11: 30: 10 PM: INFO: ********* Add customer validation started *****************
+  03/14/2023 11: 30: 33 PM: INFO: xdist worker is: gw0
+  03/14/2023 11: 30: 33 PM: INFO: ====== WebDriver manager ======
+  03/14/2023 11: 30: 33 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+  03/14/2023 11: 30: 34 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+  03/14/2023 11: 30: 36 PM: INFO: ************* Test_003_AddCustomer **********
+  03/14/2023 11: 30: 41 PM: INFO: ************* Login succesful **********
+  03/14/2023 11: 30: 41 PM: INFO: ******* Starting Add Customer Test **********
+  03/14/2023 11: 30: 44 PM: INFO: ************* Providing customer info **********
+  03/14/2023 11: 30: 56 PM: INFO: ************* Saving customer info **********
+  03/14/2023 11: 30: 56 PM: INFO: ********* Add customer validation started *****************
+  03/14/2023 11: 30: 57 PM: INFO: ********* Add customer Test Passed *********
+  03/14/2023 11: 30: 57 PM: INFO: ******* Ending Add customer test **********
+  03/16/2023 08: 28: 18 PM: INFO: xdist worker is: gw0
+  03/16/2023 08: 28: 18 PM: INFO: ====== WebDriver manager ======
+  03/16/2023 08: 28: 19 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  03/16/2023 08: 28: 20 PM: INFO: There is no [win32] chromedriver for browser 111.0.5563 in cache
+  03/16/2023 08: 28: 20 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  03/16/2023 08: 28: 24 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\111.0.5563]
+  03/16/2023 08: 28: 31 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  03/16/2023 08: 28: 41 PM: INFO: ************* Login succesful **********
+  03/16/2023 08: 28: 41 PM: INFO: ******* Starting Search Customer By Email **********
+  03/16/2023 08: 28: 43 PM: INFO: ************* searching customer by emailID **********
+  03/16/2023 08: 28: 48 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+  03/16/2023 10: 18: 57 PM: INFO: xdist worker is: gw0
+  03/16/2023 10: 18: 57 PM: INFO: ====== WebDriver manager ======
+  03/16/2023 10: 18: 57 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  03/16/2023 10: 18: 59 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  03/16/2023 10: 19: 00 PM: INFO: ************* SearchCustomerByName_005 **********
+  03/16/2023 10: 19: 26 PM: INFO: ************* Login succesful **********
+  03/16/2023 10: 19: 26 PM: INFO: ******* Starting Search Customer By Name **********
+  03/16/2023 10: 19: 32 PM: INFO: ************* searching customer by Name **********
+  03/16/2023 10: 23: 26 PM: INFO: xdist worker is: gw0
+  03/16/2023 10: 23: 26 PM: INFO: ====== WebDriver manager ======
+  03/16/2023 10: 23: 27 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  03/16/2023 10: 23: 28 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  03/16/2023 10: 23: 29 PM: INFO: ************* SearchCustomerByName_005 **********
+  03/16/2023 10: 23: 53 PM: INFO: ************* Login succesful **********
+  03/16/2023 10: 23: 53 PM: INFO: ******* Starting Search Customer By Name **********
+  03/16/2023 10: 24: 00 PM: INFO: ************* searching customer by Name **********
+  03/16/2023 10: 24: 06 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/09/2023 02: 23: 55 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 23: 55 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 23: 55 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 23: 55 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 23: 58 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 23: 58 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 23: 58 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 23: 58 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 01 PM: INFO: There is no [win64] edgedriver for browser 111.0.1661 in cache
+  04/09/2023 02: 24: 01 PM: INFO: There is no [win64] edgedriver for browser 111.0.1661 in cache
+  04/09/2023 02: 24: 01 PM: INFO: There is no [win64] edgedriver for browser 111.0.1661 in cache
+  04/09/2023 02: 24: 01 PM: INFO: There is no [win64] edgedriver for browser 111.0.1661 in cache
+  04/09/2023 02: 24: 01 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/111.0.1661.62/edgedriver_win64.zip
+  04/09/2023 02: 24: 01 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/111.0.1661.62/edgedriver_win64.zip
+  04/09/2023 02: 24: 01 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/111.0.1661.62/edgedriver_win64.zip
+  04/09/2023 02: 24: 01 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/111.0.1661.62/edgedriver_win64.zip
+  04/09/2023 02: 24: 06 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661]
+  04/09/2023 02: 24: 06 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661]
+  04/09/2023 02: 24: 06 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661]
+  04/09/2023 02: 24: 06 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661]
+  04/09/2023 02: 24: 08 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 02: 24: 08 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 02: 24: 08 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 02: 24: 08 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************verifying*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************verifying*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************verifying*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************verifying*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************Passed*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************Passed*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************Passed*********************
+  04/09/2023 02: 24: 12 PM: INFO: *************Passed*********************
+  04/09/2023 02: 24: 13 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 13 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 13 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 13 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 16 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 16 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 16 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 16 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 30 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 30 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 30 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 30 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 33 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 33 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 33 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 33 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 36 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 36 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 36 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 36 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 24: 40 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 24: 43 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 43 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 43 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 43 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 24: 46 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 46 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 46 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 46 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 24: 51 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 51 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 51 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 51 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 24: 54 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/09/2023 02: 24: 54 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/09/2023 02: 24: 54 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/09/2023 02: 24: 54 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/09/2023 02: 25: 01 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 01 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 01 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 01 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 01 PM: INFO: ******* Starting Search Customer By Email **********
+  04/09/2023 02: 25: 01 PM: INFO: ******* Starting Search Customer By Email **********
+  04/09/2023 02: 25: 01 PM: INFO: ******* Starting Search Customer By Email **********
+  04/09/2023 02: 25: 01 PM: INFO: ******* Starting Search Customer By Email **********
+  04/09/2023 02: 25: 03 PM: INFO: ************* searching customer by emailID **********
+  04/09/2023 02: 25: 03 PM: INFO: ************* searching customer by emailID **********
+  04/09/2023 02: 25: 03 PM: INFO: ************* searching customer by emailID **********
+  04/09/2023 02: 25: 03 PM: INFO: ************* searching customer by emailID **********
+  04/09/2023 02: 25: 09 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 25: 09 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 25: 09 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 25: 09 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 25: 12 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 25: 12 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 25: 12 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 25: 12 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 25: 15 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 25: 15 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 25: 15 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 25: 15 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 25: 19 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/09/2023 02: 25: 19 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/09/2023 02: 25: 19 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/09/2023 02: 25: 19 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/09/2023 02: 25: 27 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 27 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 27 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 27 PM: INFO: ************* Login succesful **********
+  04/09/2023 02: 25: 27 PM: INFO: ******* Starting Search Customer By Name **********
+  04/09/2023 02: 25: 27 PM: INFO: ******* Starting Search Customer By Name **********
+  04/09/2023 02: 25: 27 PM: INFO: ******* Starting Search Customer By Name **********
+  04/09/2023 02: 25: 27 PM: INFO: ******* Starting Search Customer By Name **********
+  04/09/2023 02: 25: 31 PM: INFO: ************* searching customer by Name **********
+  04/09/2023 02: 25: 31 PM: INFO: ************* searching customer by Name **********
+  04/09/2023 02: 25: 31 PM: INFO: ************* searching customer by Name **********
+  04/09/2023 02: 25: 31 PM: INFO: ************* searching customer by Name **********
+  04/09/2023 02: 25: 37 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/09/2023 02: 25: 37 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/09/2023 02: 25: 37 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/09/2023 02: 25: 37 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/09/2023 02: 33: 51 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 33: 54 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 33: 58 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 33: 59 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 33: 59 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 39: 33 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 39: 36 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 39: 39 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 39: 40 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 02: 39: 43 PM: INFO: *************verifying*********************
+  04/09/2023 02: 39: 43 PM: INFO: *************Passed*********************
+  04/09/2023 02: 39: 43 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 39: 47 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 39: 50 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 40: 42 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 40: 45 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 40: 49 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 40: 50 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 40: 50 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 43: 12 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 43: 15 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 43: 19 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 43: 20 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 43: 20 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 49: 56 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 02: 50: 00 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+  04/09/2023 02: 50: 04 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+  04/09/2023 02: 50: 05 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+  04/09/2023 02: 50: 05 PM: INFO: ******* Starting Login DDT Test **********
+  04/09/2023 02: 50: 19 PM: INFO: **** passed ****
+  04/09/2023 02: 50: 27 PM: INFO: **** passed ****
+  04/09/2023 02: 50: 33 PM: INFO: **** passed ****
+  04/09/2023 02: 50: 40 PM: INFO: **** passed ****
+  04/09/2023 02: 50: 40 PM: INFO: ******* DDT Login test passed **********
+  04/09/2023 02: 50: 40 PM: INFO: ******* End of Login DDT Test **********
+  04/09/2023 02: 50: 40 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+  04/09/2023 05: 02: 34 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 02: 34 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 02: 34 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 02: 34 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 02: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 02: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 02: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 02: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 02: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/09/2023 05: 02: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/09/2023 05: 02: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/09/2023 05: 02: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/09/2023 05: 02: 40 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/09/2023 05: 02: 40 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/09/2023 05: 02: 40 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/09/2023 05: 02: 40 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/09/2023 05: 02: 42 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 02: 42 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 02: 42 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 02: 42 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************verifying*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************verifying*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************verifying*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************verifying*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************Passed*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************Passed*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************Passed*********************
+  04/09/2023 05: 02: 44 PM: INFO: *************Passed*********************
+  04/09/2023 05: 14: 12 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 14: 12 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 14: 12 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 14: 12 PM: INFO: ====== WebDriver manager ======
+  04/09/2023 05: 14: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 14: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 14: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 14: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/09/2023 05: 14: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/09/2023 05: 14: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/09/2023 05: 14: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/09/2023 05: 14: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/09/2023 05: 14: 15 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 14: 15 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 14: 15 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 14: 15 PM: INFO: *************test001 home page ttile*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************verifying*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************verifying*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************verifying*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************verifying*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
+  04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
