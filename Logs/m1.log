@@ -585,3 +585,151 @@
   04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
   04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
   04/09/2023 05: 14: 17 PM: INFO: *************Passed*********************
+  04/11/2023 10: 46: 34 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 46: 34 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 46: 34 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 46: 34 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 46: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 46: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 46: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 46: 35 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 46: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/11/2023 10: 46: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/11/2023 10: 46: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/11/2023 10: 46: 37 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+  04/11/2023 10: 46: 38 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/11/2023 10: 46: 38 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/11/2023 10: 46: 38 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/11/2023 10: 46: 38 PM: INFO: Driver has been saved in cache [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563]
+  04/11/2023 10: 46: 40 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 46: 40 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 46: 40 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 46: 40 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************verifying*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************verifying*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************verifying*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************verifying*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************Passed*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************Passed*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************Passed*********************
+  04/11/2023 10: 46: 41 PM: INFO: *************Passed*********************
+  04/11/2023 10: 48: 20 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 48: 20 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 48: 20 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 48: 20 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 48: 20 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 48: 20 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 48: 20 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 48: 20 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 48: 21 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 48: 21 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 48: 21 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 48: 21 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 48: 23 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 48: 23 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 48: 23 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 48: 23 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************verifying*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************verifying*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************verifying*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************verifying*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************Passed*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************Passed*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************Passed*********************
+  04/11/2023 10: 48: 24 PM: INFO: *************Passed*********************
+  04/11/2023 10: 49: 53 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 49: 53 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 49: 53 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 49: 53 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 49: 54 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 49: 54 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 49: 54 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 49: 54 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 49: 55 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 49: 55 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 49: 55 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 49: 55 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 49: 57 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 49: 57 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 49: 57 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 49: 57 PM: INFO: *************test001 home page ttile*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************verifying*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************verifying*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************verifying*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************verifying*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************Passed*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************Passed*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************Passed*********************
+  04/11/2023 10: 49: 58 PM: INFO: *************Passed*********************
+  04/11/2023 10: 53: 12 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 12 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 12 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 12 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 13 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 14 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 21 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 21 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 21 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 21 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 22 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 22 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 22 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 22 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 23 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 23 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 23 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 23 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 25 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/11/2023 10: 53: 25 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/11/2023 10: 53: 25 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/11/2023 10: 53: 25 PM: INFO: ************* SearchCustomerByEmail_004 **********
+  04/11/2023 10: 53: 30 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 30 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 30 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 30 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 30 PM: INFO: ******* Starting Search Customer By Email **********
+  04/11/2023 10: 53: 30 PM: INFO: ******* Starting Search Customer By Email **********
+  04/11/2023 10: 53: 30 PM: INFO: ******* Starting Search Customer By Email **********
+  04/11/2023 10: 53: 30 PM: INFO: ******* Starting Search Customer By Email **********
+  04/11/2023 10: 53: 31 PM: INFO: ************* searching customer by emailID **********
+  04/11/2023 10: 53: 31 PM: INFO: ************* searching customer by emailID **********
+  04/11/2023 10: 53: 31 PM: INFO: ************* searching customer by emailID **********
+  04/11/2023 10: 53: 31 PM: INFO: ************* searching customer by emailID **********
+  04/11/2023 10: 53: 37 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 37 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 37 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 37 PM: INFO: ====== WebDriver manager ======
+  04/11/2023 10: 53: 38 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 38 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 38 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 38 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+  04/11/2023 10: 53: 39 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 39 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 39 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 39 PM: INFO: Driver [C:\Users\Danish Khan\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+  04/11/2023 10: 53: 40 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/11/2023 10: 53: 40 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/11/2023 10: 53: 40 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/11/2023 10: 53: 40 PM: INFO: ************* SearchCustomerByName_005 **********
+  04/11/2023 10: 53: 45 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 45 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 45 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 45 PM: INFO: ************* Login succesful **********
+  04/11/2023 10: 53: 45 PM: INFO: ******* Starting Search Customer By Name **********
+  04/11/2023 10: 53: 45 PM: INFO: ******* Starting Search Customer By Name **********
+  04/11/2023 10: 53: 45 PM: INFO: ******* Starting Search Customer By Name **********
+  04/11/2023 10: 53: 45 PM: INFO: ******* Starting Search Customer By Name **********
+  04/11/2023 10: 53: 48 PM: INFO: ************* searching customer by Name **********
+  04/11/2023 10: 53: 48 PM: INFO: ************* searching customer by Name **********
+  04/11/2023 10: 53: 48 PM: INFO: ************* searching customer by Name **********
+  04/11/2023 10: 53: 48 PM: INFO: ************* searching customer by Name **********
+  04/11/2023 10: 53: 54 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/11/2023 10: 53: 54 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/11/2023 10: 53: 54 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+  04/11/2023 10: 53: 54 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
