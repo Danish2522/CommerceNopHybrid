@@ -1,1 +1,1 @@
-pytest -s -v -m "sanity" --browser chrome
+pytest -s -v -m "regression" --browser chrome
